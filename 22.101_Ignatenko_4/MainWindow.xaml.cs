@@ -54,7 +54,7 @@ namespace _22._101_Ignatenko_4
                         else
                         {
                             chars[j] = char.ToLower(chars[j]);
-                            help += chars[j];
+                            help += chars[j]; 
                         }
                     } 
 
